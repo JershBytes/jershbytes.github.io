@@ -12,13 +12,6 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 
-assets:
-  favicon: "/img/pixel-jersh.jpg"
-  favicon16x16: "/img/pixel-jersh.jpg"
-  favicon32x32: "/img/pixel-jersh.jpg"
-  #     apple_touch_icon: "<link / abs url>"
-  #     safari_pinned_tab: "<link / abs url>
-
 params:
   author:
     - Joshua Ross
@@ -64,6 +57,10 @@ params:
       url: "https://www.linkedin.com/in/joshuamalcom/"
     - name: email
       url: "mailto:contact@rossjm.dev"
+  
+  assets:
+    disableHLJS: true 
+    favicon: "assets/favicon.ico"
     
 
 minify:
