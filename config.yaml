@@ -11,6 +11,14 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
+menu:
+  main:
+    - name: Scripts
+      url: https://rossjm.dev/scripts/
+      weight: 0
+    - name: Learning Barn
+      url: https://rossjm.dev/learninghub/
+      weight: 1
 
 params:
   author:
