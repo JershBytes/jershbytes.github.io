@@ -55,5 +55,6 @@ Lansing, MI <br>
 
 
 ## Projects
-- [Learning Site](https://learn.rossjm.dev/) -- MkDocs Site hosted on GitHub. With tutoriais on how to setup diffrent technologies.
+- [Learning Site](https://rossjm.dev/learninghub/) -- MkDocs Site hosted on GitHub. With tutoriais on how to setup diffrent technologies.
 - [VaultWarden](https://vault.jersh.cloud) -- Self-Hosted password manager. Application that I found on GitHub and provide free of charge.
+- [Scripts Site](https://rossjm.dev/scripts/) -- MkDocs Site hosted on GitHub. This Provides Scripts I've created written in bash for Proxmox most linux OS's.
