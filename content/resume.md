@@ -1,10 +1,11 @@
 <h1 align="center"> Joshua Ross </h1>
 
 <h6 align="center">
-<a href="mailto:important@rossjm.net"><i class="fa-solid fa-envelope"></i> Email</a> &nbsp;
-<a href="https://github.com/ColoredBytes"><i class="fa-brands fa-github"></i> GitHub</a> &nbsp;
-<a href="https://github.com/ColoredBytes"><i class="fa-brands fa-linkedin"></i> LinkedIn</a> 
+  <a href="mailto:important@rossjm.net">Email</a> &nbsp;
+  <a href="https://github.com/ColoredBytes">GitHub</a> &nbsp;
+  <a href="https://linkedin.com/in/ColoredBytes">LinkedIn</a>
 </h6>
+
 
 
 ## Education
@@ -47,16 +48,10 @@ Lansing, MI <br>
 
 ## Skills
 
-**Programming Languages:** 
-
-![gnubash](https://img.shields.io/badge/gnubash-4EAA25?logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/powershell-5391FE?logo=powershell&logoColor=white)
+**Programming Languages:** Bash, PowerShell
 
 
-**Tools and Frameworks:** 
-
-
-
+**Tools and Frameworks:** Ansible, Git and Terraform
 
 
 ## Projects
