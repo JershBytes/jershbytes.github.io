@@ -47,14 +47,13 @@ Lansing, MI <br>
 
 ## Skills
 
-### **Programming Languages:** 
+**Programming Languages:** 
 
 ![gnubash](https://img.shields.io/badge/gnubash-4EAA25?logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/powershell-5391FE?logo=powershell&logoColor=white)
 
 
-### **Tools and Frameworks:** 
-![Ansible](https://img.shields.io/badge/ansible-EE0000?logo=ansible&logoColor=white)&nbsp;![Terraform](https://img.shields.io/badge/terraform-844FBA?logo=terraform&logoColor=white)&nbsp;![git](https://img.shields.io/badge/git-F05032?logo=git&logoColor=white)
+**Tools and Frameworks:** 
 
 
 
