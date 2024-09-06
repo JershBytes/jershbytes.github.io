@@ -1,4 +1,5 @@
 title: Joshua Ross
+baseURL: https://rossjm.dev/
 paginate: 5
 theme: [PaperMod]
 min_version: "0.134.0"
