@@ -17,7 +17,7 @@ showToc = true
 
 **Welcome Everyone**, Today I decided to write another blog post after having a conversation with a friend. I asked him what should the topic be today and whether it should be a blog or more of a tutorial. He suggested a tutorial so I decided why not write on how I set up my Dev Environment. So read along while I explain how I set this up and why I chose said apps.
 
-## [Homebrew](https://brew.sh/)
+## Homebrew
 
 The First Item on the list is good ole Homebrew. I started using this [Package Manager](https://en.wikipedia.org/wiki/Package_manager) around 2019 when working at a former job of mine. At the time I was using a MacBook Pro as my work computer and wanted to find a way to install apps without needing to find the site after some searching was able to find homebrew and was loving and the access to other apps. In this next step, I'm going to show you how you can install it.
 
@@ -53,7 +53,7 @@ This will install wget. Some apps may need to be added to your profile so the sy
 
 Well, this is all for **Homebrew**.
 
-## [WinGet]((https://github.com/microsoft/winget-cli))
+## WinGet
 
 winget, like homebrew winget is a Package Manager but for Windows. When doing dev work on my Windows desktop I base a lot of my script to install stuff around this package manager. Mainly being a neovim install script located in my [dotfiles](https://github.com/ross-jm/dotfiles) repo. But enough about that let's see how you install it.
 
@@ -86,7 +86,7 @@ After all is said and done you can start installing stuff or even try and write 
 {{</collapse>}}
 
 
-## [VSCode](https://code.visualstudio.com/)
+## VSCode
 
 I use VSCode on the daily. I'm even using it to write this blog post. I mainly use this as the main code writing as it's really easy to install extensions and has a vast majority of them as well. It also integrates with GitHub natively so when I feel like being lazy and not doing git commands from the terminal I can just click some buttons and then **poof** the code is on GitHub. You're probably wondering well how do you install it? Well, let me show you.
 
@@ -124,7 +124,7 @@ After you've installed VSCode you can set up the environment how you would like.
 
 These are the ones I make sure are always installed or synced when I setup a new machine.
 
-## [LazyVim](https://www.lazyvim.org/)
+## LazyVim
 
 LazyVim is a distro of [NeoVim](http://neovim.io/) a highly extensible and customizable text editor based on the popular Vim editor. It's designed to improve upon Vim's limitations while retaining its powerful editing capabilities and modal interface. I chose LazyVim as I use Vim all the time in Linux and Windows and wanted something a little more flexible when I didn't feel like opening VSCode. LazyVim has videos all over YouTube and one day I decided to watch some and decided to try it out after talking to a Co-Worker of mine. I do not regret it one bit as LazyVim has helped me code better at times and understand how things work. It also keeps me away from the mouse. I even have my [LazyVim Config](https://github.com/ross-jm/lazyvim-config) on GitHub if you want to use it. Enough of the talk though Let's show how you can install it.
 
@@ -217,7 +217,7 @@ git clone https://github.com/ross-jm/lazyvim-config.git ~/.config/nvim
 
 Then remove the `.git` folder so you can customize it to your liking and push it to your own GitHub account.
 
-## [Git](https://git-scm.com/)
+## Git
 
 Git is a distributed version control system primarily used for tracking changes in source code during software development. It allows multiple developers to collaborate on a project by managing different versions of files and coordinating their work efficiently.
 
