@@ -65,4 +65,4 @@ Lansing, MI <br>
 | Learning Site   | MkDocs Site hosted on GitHub. With tutorials on how to set up different technologies. | [Link](https://rossjm.dev/learninghub/) |
 | VaultWarden     | Self-Hosted password manager. Application found on GitHub and provided free of charge. | [Link](https://vault.jersh.cloud) |
 | Scripts Site    | MkDocs Site hosted on GitHub. Provides scripts written in bash for Proxmox and most Linux OSes. | [Link](https://rossjm.dev/scripts/) |
-| Homelab         | My Honmelab configs Documented in a github repo. Including Ansible, Terraform and more.         | [Link](https://github.com/coloredbytes/homelab)
+| Homelab         | My Homelab configs Documented in a github repo. Including Ansible, Terraform and more.         | [Link](https://github.com/coloredbytes/homelab)
