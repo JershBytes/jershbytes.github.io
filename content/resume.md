@@ -1,14 +1,18 @@
 <h1 align="center"> Joshua Ross </h1>
 
 <h6 align="center">
-  <a href="mailto:important@rossjm.net">Email</a> &nbsp;
-  <a href="https://github.com/ColoredBytes">GitHub</a> &nbsp;
-  <a href="https://linkedin.com/in/ColoredBytes">LinkedIn</a>
+  <a href="mailto:important@rossjm.net"><i class="fa fa-envelope" aria-hidden="true"></i> Email</a> &nbsp;
+  <a href="https://github.com/ColoredBytes"><i class="fa-brands fa-github" aria-hidden="true"></i> GitHub</a> &nbsp;
+  <a href="https://linkedin.com/in/ColoredBytes"><i class="fa-brands fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
 </h6>
 
+<!-- Make sure to include Font Awesome in your HTML -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 
-## Education
+
+
+## 🏫 Education
 
 **AAS. Computer Networking** <br>
 Career Quest Learning Centers | 
@@ -16,7 +20,7 @@ Lansing, MI <br>
 09/2019 - 03/2021
 
 
-## Experience
+## 💼 Experience
 
 **ITPA 11** ~ State of Michigan <br>
     05/2023 - Present
@@ -41,20 +45,22 @@ Lansing, MI <br>
 > - Performed hardware/software upgrades to existing computer equipment as needed.
 > - Inventoried Laptop Stock for Students and Staff usage
 
-## Certifications
+## 🏅 Certifications
 
 **ITIL v4** ~ ITIL Foundation Level
    2023
 
-## Skills
+## 🛠️ Skills
 
-**Programming Languages:** Bash, PowerShell
-
+**Scripting Languages:** Bash, PowerShell
 
 **Tools and Frameworks:** Ansible, Git and Terraform
 
 
-## Projects
-- [Learning Site](https://rossjm.dev/learninghub/) -- MkDocs Site hosted on GitHub. With tutoriais on how to setup diffrent technologies.
-- [VaultWarden](https://vault.jersh.cloud) -- Self-Hosted password manager. Application that I found on GitHub and provide free of charge.
-- [Scripts Site](https://rossjm.dev/scripts/) -- MkDocs Site hosted on GitHub. This Provides Scripts I've created written in bash for Proxmox most linux OS's.
+## 🚀 Projects
+
+| Site Name       | Description                                                   | URL                              |
+|-----------------|---------------------------------------------------------------|----------------------------------|
+| Learning Site   | MkDocs Site hosted on GitHub. With tutorials on how to set up different technologies. | [Link](https://rossjm.dev/learninghub/) |
+| VaultWarden     | Self-Hosted password manager. Application found on GitHub and provided free of charge. | [Link](https://vault.jersh.cloud) |
+| Scripts Site    | MkDocs Site hosted on GitHub. Provides scripts written in bash for Proxmox and most Linux OSes. | [Link](https://rossjm.dev/scripts/) |
