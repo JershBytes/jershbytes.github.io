@@ -1,16 +1,20 @@
-<h1 align="center"> Joshua Ross </h1>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
+<!-- Header -->
+
+<h1 align="center"> Joshua Ross </h1>
+<div align="center">
+<i> 
+Information Technology Analyst | Enhancing Efficiency Through Technology 
+</i>
+</div>
 <h6 align="center">
   <a href="mailto:important@rossjm.net"><i class="fa fa-envelope" aria-hidden="true"></i> Email</a> &nbsp;
   <a href="https://github.com/ColoredBytes"><i class="fa-brands fa-github" aria-hidden="true"></i> GitHub</a> &nbsp;
-  <a href="https://linkedin.com/in/ColoredBytes"><i class="fa-brands fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
+  <a href="https://linkedin.com/in/joshuamalcom"><i class="fa-brands fa-linkedin" aria-hidden="true"></i> LinkedIn</a>
 </h6>
 
-<!-- Make sure to include Font Awesome in your HTML -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-
-
-
+<!-- Main Section -->
 
 ## 🏫 Education
 
@@ -19,16 +23,14 @@ Career Quest Learning Centers |
 Lansing, MI <br>
 09/2019 - 03/2021
 
-
 ## 💼 Experience
 
-**ITPA 11** ~ State of Michigan <br>
+**Information Technology Programmer Analyst 11** ~ State of Michigan <br>
     05/2023 - Present
 
 > - Analyze, develop, test, configure, implement, and maintain a variety of hardware and application platforms.
 > - Works with other teams to deploy servers based on their needs.
 > - Provide support for a variety of third party software.
-
 
 **Datacenter Operations Tech II** ~ Liquid Web <br>
     09/2021 - 05/2023
@@ -36,7 +38,6 @@ Lansing, MI <br>
 > - Assist with Restoration of Systems by means of Hardware swap or restoring from backups.
 > - Assisted With server checks when OCC team reports downed servers.
 > - Assist with Datacenter Operations Technician I up to speed with System Restore Practices to get them ready for Tier II
-
 
 **IT Support Specialist** ~ Career Quest Learning Centers <br>
     12/2020 - 08/2021
