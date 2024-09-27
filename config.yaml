@@ -1,5 +1,5 @@
 title: Joshua Ross
-baseURL: https://coloredbytes.github.io/
+baseURL: https://jershbytes.github.io/
 paginate: 5
 theme: [PaperMod]
 min_version: "0.134.0"
@@ -60,7 +60,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/coloredbytes/"
+      url: "https://github.com/jershbytes/"
     - name: linkedin
       url: "https://www.linkedin.com/in/joshuamalcom/"
     - name: email
