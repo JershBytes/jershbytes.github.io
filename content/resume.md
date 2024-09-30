@@ -3,11 +3,7 @@
 <!-- Header -->
 
 <h1 align="center"> Joshua Ross </h1>
-<div align="center">
-<i> 
-Information Technology Analyst | Enhancing Efficiency Through Technology 
-</i>
-</div>
+<div align="center"> <i> Information Technology Analyst | Enhancing Efficiency Through Technology </i> </div>
 <h6 align="center">
   <a href="mailto:important@rossjm.net"><i class="fa fa-envelope" aria-hidden="true"></i> Email</a> &nbsp;
   <a href="https://github.com/JershBytes"><i class="fa-brands fa-github" aria-hidden="true"></i> GitHub</a> &nbsp;
