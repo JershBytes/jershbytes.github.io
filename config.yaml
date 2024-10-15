@@ -58,7 +58,7 @@ params:
       - name: Resume
         url: resume
 
-  socialIcons:
+  social:
     - name: github
       url: "https://github.com/jershbytes/"
     - name: linkedin
