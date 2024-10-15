@@ -1,6 +1,6 @@
 title: Joshua Ross
 baseURL: https://jershbytes.github.io/
-paginate: 5
+pagerSize: 5
 theme: [PaperMod]
 min_version: "0.134.0"
 
