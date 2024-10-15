@@ -2,7 +2,7 @@ title: Joshua Ross
 baseURL: https://jershbytes.github.io/
 pagerSize: 5
 theme: [PaperMod]
-min_version: "0.134.0"
+min_version: "0.136.0"
 
 
 enableInlineShortcodes: true
@@ -58,7 +58,7 @@ params:
       - name: Resume
         url: resume
 
-  social:
+  socialIcons:
     - name: github
       url: "https://github.com/jershbytes/"
     - name: linkedin
